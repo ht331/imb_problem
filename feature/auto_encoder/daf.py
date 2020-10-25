@@ -162,3 +162,4 @@ if __name__ == '__main__':
 
         write_bunch('e:/Paper/imb_problem/data/DAF_stack_data_%s_%s.data' %
                     (af, hidden1), dataset)
+
